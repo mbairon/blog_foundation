@@ -1,0 +1,22 @@
+body {
+background-image: url(../img/restaurante.png);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+}
+
+.logo-img{
+  width: 30%;
+}
+
+.row{
+  padding: 2%;
+}
+
+img{
+  max-height: 129px;
+}
+
+@media (max-width: 770px) {
+
+}
